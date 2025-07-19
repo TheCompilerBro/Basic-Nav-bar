@@ -13,8 +13,7 @@ index.html – The main HTML file containing the navbar structure.
 style.css – The CSS file for styling the navbar.
 🔍 Preview
 
-![Navbar Screenshot](<img width="1054" height="805" alt="navbar-preview" src="https://github.com/user-attachments/assets/a8af4f4a-56b5-4a8a-874b-e806d382c691" />
-)
+![Navbar Screenshot](navbar-preview.png)
 
 🚀 How to Use
 
