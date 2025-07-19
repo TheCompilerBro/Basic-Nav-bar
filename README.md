@@ -20,7 +20,7 @@ style.css – The CSS file for styling the navbar.
 
 Clone or download this repository.
 Open index.html in your browser to view the navbar.
-git clone https://github.com/yourusername/navbar-example.git
+git clone https://github.com/TheCompilerBro/Basic-Nav-bar/
 cd navbar-example
 open index.html  # or use any browser
 💡 Features
